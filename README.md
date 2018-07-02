@@ -18,6 +18,7 @@ http://monsite/myAdmin/index.php?A&Report\StatsNewsletterNoAccount
 
 Activate the module in Report
 
+See Marketplace for all informations
 link to marketplace : https://www.clicshopping.org/forum/files/file/25-apps-report-customer-anonymous-newsletter/
 
 ![noaccount](https://github.com/ClicShoppingOfficialModulesV3/apps_report_stats_newsletter_no_account/blob/master/ModuleInfosJson/no_account.png)
