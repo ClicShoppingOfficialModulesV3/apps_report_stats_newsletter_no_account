@@ -1,0 +1,27 @@
+module_account_customers_newsletter_no_account_title = Souhaitez-vous permettre au client de s'abonner ou de se désabonner au bulletin d'information Anonyme ?
+module_account_customers_newsletter_no_account_description = Affiche le formulaire de d'abonnement ou de désabonnement au bulletin d'information Anonyme
+
+entry_antispam = Combien font :
+
+text_origin_login = S'abonner à la newsletter sur {{store_name}} se fait très simplement !<br /><br />Toutes les informations que vous nous donnerez resteront bien évidemment strictement privées et réservées. A aucun moment vos informations ne seront divulguées à d'autres parties ou pour aucune action ou propos commercial autre que celles de {{store_name}} et que vous avez autorisé . Toutes ces informations ne servent à {{store_name}} que pour mieux vous suivre et vous servir.<br /><br /> Vous pourrez à tout moment mettre à jour ou supprimer les informations que vous nous aurez données sur simple demande par email. Vous gardez ainsi à tout moment le plein contr&ocirc;le sur les informations que vous nous avez transmis.</font><br /><br />{{store_name}} respecte les chartes Informatiques et Libertés existantes.
+
+text_privacy_conditions_description = Notre politique de confidentialité est consultable à tout moment sur {{store_name}} en cliquant <a target="_blank" href="{{url}}" rel="noreferrer"><u>ici</u></a>.
+text_privacy_conditions_agree = Veuillez cocher cette case afin de donner votre consentement concernant notre politique de confidentialité
+
+
+heading_title_Newsletter =  Souscription newsletter anonymes
+my_newsletter_title = Newsletter
+
+text_category_personal = Informations Client
+
+form_required = requis
+entry_first_name = Prénom
+entry_first_name_text = *
+entry_last_name = Nom
+entry_last_name_text = *
+entry_email_address = E-Mail
+entry_email_address_text = *
+entry_email_address = E-mail
+entry_email_address_confirmation = Confirmation E-mail
+
+button_continue = continuer

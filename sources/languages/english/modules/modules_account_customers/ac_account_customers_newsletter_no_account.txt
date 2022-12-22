@@ -1,0 +1,25 @@
+module_account_customers_newsletter_no_account_title = Do you want allow to the customer to subscribe Anonymous Newsletter ?
+module_account_customers_newsletter_no_account_description = Display a form to allow to the customer to subscribe Anonymous Newsletter
+
+text_origin_login = Subscribe to the newsletter {{store_name}} is very simple! <br /> All information you provide will clearly remain strictly private and reserved. At no time will your information disclosed to other parties or for any actions or statements other than trading of {{store_name}} and you have authorized. All this information is used to {{store_name}} for better follow you and serve you. <br /> You may at any time to update or delete information you have given on request by email. You keep well at all times have full control over the information you have provided.<br /><br /> {{store_name}} respects the law computer and Freedoms charters available.
+
+text_privacy_conditions_description = The privacy statement are available always on {{store_name}} and can be read <a href="{{url}}" target="_blank" rel="noopener"><u>here</u></a>.
+text_privacy_conditions_agree = Please check this box to give your consent regarding our privacy policy
+
+my_newsletter_title = Newsletter
+
+heading_title_Newsletter =  Anonymous newsletter subscription
+text_category_personal = Informations User
+
+form_required = required
+entry_first_name = First Name:
+entry_first_name_text = *
+entry_last_name = Last Name:
+entry_last_name_text = *
+entry_email_address = E-Mail Address:
+entry_email_address_text = *
+entry_email_address = E-mail
+entry_email_address_confirmation = E-mail confirmation
+entry_antispam = How many :
+
+button_continue = continue
