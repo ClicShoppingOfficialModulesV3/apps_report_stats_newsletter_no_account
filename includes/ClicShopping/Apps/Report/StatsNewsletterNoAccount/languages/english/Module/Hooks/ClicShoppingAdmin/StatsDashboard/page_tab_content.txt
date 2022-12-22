@@ -1,0 +1,1 @@
+box_entry_newsletter_no_account = Newsletter subscription number with no account

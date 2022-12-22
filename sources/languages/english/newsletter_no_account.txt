@@ -1,0 +1,8 @@
+ navbar_title = Newsletter subscription
+ heading_title = Newsletter subscription
+
+ error_action_recorder = Error: An enquiry has already been sent. Please try again in {{module_action_recorder_newsletter_no_account_email_minutes}} minutes.
+
+ email_subject = Newsletter subscription at {{store_name}}
+
+ email_welcome = Thank you for your confidence by the subscription  at our newsletter. <br /><br />Pursuant to your request to {{store_name}}, we confirm its validation. <br /><br />For any assistance on our services, please contact our customer service: {{store_owner_email_address}}

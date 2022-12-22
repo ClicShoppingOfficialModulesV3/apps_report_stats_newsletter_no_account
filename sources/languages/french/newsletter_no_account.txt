@@ -1,0 +1,8 @@
+navbar_title = Abonnement newsletter
+heading_title = Abonnement newsletter
+
+error_action_recorder = Erreur: Une demande a été déjà réalisée. Veuillez recommencer dans {{module_action_recorder_newsletter_no_account_email_minutes}} minutes.
+
+email_subject = Abonnement à la newsletter de {{store_name}}
+
+email_welcome = <div align="justify">Nous vous remercions pour la confiance que vous nous témoigniez en vous enregistrant à la newsletter<br /><br />Comme suite à votre demande  sur {{store_name}}  nous vous confirmons sa validation. '. "\n\n" . 'Pour toute aide sur nos services, n'hésitez pas à contacter notre service clientèle : {{store_owner_email_address}};

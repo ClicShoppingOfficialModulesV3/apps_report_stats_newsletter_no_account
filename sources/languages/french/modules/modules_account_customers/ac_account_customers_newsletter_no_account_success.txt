@@ -1,0 +1,7 @@
+  use ClicShopping\OM\CLICSHOPPING;
+
+module_account_customers_newsletter_no_account_success_title = Souhaitez-vous afficher la page de succès d\'inscription au bulletin d'information Anonyme ?
+module_account_customers_newsletter_no_account_success_description = Affiche la page de succès d\'inscription au bulletin d'information Anonyme
+
+text_success = Félicitations ! Vous pourrez recevoir prochainement l'ensemble des informations concernant {{store_name}} pendant une période de 1 an.
+  <p>n'hesitez pas vous enregistrer sur {{store_name}} pour recevoir encore plus d'informations sur nos actualités, nos exceptionnels promotions destinées à nos clients fidèles.<br /><br />Pour toutes questions relative au fonctionnement du site et aux commandes en ligne, vous pouvez soit consulter la rubrique  "INFOS CLIENTS" ou contacter notre service commercial via un e-mail par le formulaire mis à votre disposition : <a href="' . CLICSHOPPING::link(null, 'Info&Contact') . '">Nous contacter</a>.<br /><br />Cordialement, l'équipe commeciale {{store_name}});

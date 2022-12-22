@@ -1,0 +1,9 @@
+
+  use ClicShopping\OM\CLICSHOPPING;
+
+ module_account_customers_newsletter_no_account_success_title = Do you want to display the success confirmation page for Anonymous Newsletter ?
+ module_account_customers_newsletter_no_account_success_description = Display the success confirmation page for Anonymous Newsletter
+
+ text_success Congratulation = You can receive our newsletter about {{store_name}} for 1 year.
+  <p>do not forget tocreate an account on {{store_name}} to receive all news, ours specials for ours customers.<br /><br />
+  for all information about the website, you can read our conditions and all informations available. If you can  <a href="index.php?Info&Contact">contact us</a>.<br /><br />Regards, {{store_name}} team

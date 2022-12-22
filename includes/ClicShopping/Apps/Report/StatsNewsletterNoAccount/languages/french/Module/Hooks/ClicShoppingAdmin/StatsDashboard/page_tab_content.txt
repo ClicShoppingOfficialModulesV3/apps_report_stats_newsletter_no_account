@@ -1,0 +1,1 @@
+box_entry_newsletter_no_account = Nombre de souscriptions à la Newsletter sans compte
